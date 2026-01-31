@@ -1,0 +1,5 @@
+{
+  "name": "QuizGenius AI",
+  "description": "An intelligent quiz generator that transforms your study notes or articles into interactive quizzes using Gemini AI.",
+  "requestFramePermissions": []
+}
